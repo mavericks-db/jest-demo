@@ -8,7 +8,7 @@
 
 - [x] Language: JavaScript
 - [x] Linter: ESLint
-- [ ] Testing Framework: Jest
+- [x] Testing Framework: Jest
 - [x] Code Editor: VS Code
 
 ## Getting Started
@@ -76,7 +76,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Microverse[https://www.microverse.org/]
+- [Microverse](https://www.microverse.org/)
 
 ## 📝 License
 
