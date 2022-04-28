@@ -68,7 +68,7 @@ $ npm run test
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/mavericks-db/awesome-books/issues).
+Feel free to check the [issues page](https://github.com/mavericks-db/jest-demo/issues).
 
 ## Show your support
 
