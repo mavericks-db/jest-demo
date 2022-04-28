@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1651171395730" clover="3.2.0">
-  <project timestamp="1651171395730" name="All files">
+<coverage generated="1651174163384" clover="3.2.0">
+  <project timestamp="1651174163385" name="All files">
     <metrics statements="38" coveredstatements="38" conditionals="26" coveredconditionals="26" methods="9" coveredmethods="9" elements="73" coveredelements="73" complexity="0" loc="38" ncloc="38" packages="1" files="4" classes="4"/>
     <file name="task1.js" path="/Users/mavericks/repos/jest-demo/task1.js">
       <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
@@ -45,12 +45,12 @@
     </file>
     <file name="task4.js" path="/Users/mavericks/repos/jest-demo/task4.js">
       <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
-      <line num="2" count="6" type="cond" truecount="2" falsecount="0"/>
-      <line num="3" count="5" type="stmt"/>
-      <line num="4" count="5" type="stmt"/>
-      <line num="5" count="5" type="stmt"/>
+      <line num="2" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="3" count="4" type="stmt"/>
+      <line num="4" count="4" type="stmt"/>
+      <line num="5" count="4" type="stmt"/>
       <line num="7" count="1" type="stmt"/>
-      <line num="11" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
