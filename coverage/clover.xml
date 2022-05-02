@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1651174163384" clover="3.2.0">
+  <project timestamp="1651174163385" name="All files">
+    <metrics statements="38" coveredstatements="38" conditionals="26" coveredconditionals="26" methods="9" coveredmethods="9" elements="73" coveredelements="73" complexity="0" loc="38" ncloc="38" packages="1" files="4" classes="4"/>
+    <file name="task1.js" path="/Users/mavericks/repos/jest-demo/task1.js">
+      <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="2" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="7" count="5" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+    </file>
+    <file name="task2.js" path="/Users/mavericks/repos/jest-demo/task2.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="6" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="task3.js" path="/Users/mavericks/repos/jest-demo/task3.js">
+      <metrics statements="24" coveredstatements="24" conditionals="20" coveredconditionals="20" methods="6" coveredmethods="6"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="7" count="5" type="cond" truecount="4" falsecount="0"/>
+      <line num="8" count="4" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="12" count="5" type="stmt"/>
+      <line num="16" count="5" type="cond" truecount="4" falsecount="0"/>
+      <line num="17" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="20" count="3" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="25" count="5" type="stmt"/>
+      <line num="29" count="5" type="cond" truecount="4" falsecount="0"/>
+      <line num="30" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="31" count="1" type="stmt"/>
+      <line num="33" count="3" type="stmt"/>
+      <line num="36" count="1" type="stmt"/>
+      <line num="38" count="5" type="stmt"/>
+      <line num="42" count="5" type="cond" truecount="4" falsecount="0"/>
+      <line num="43" count="4" type="stmt"/>
+      <line num="45" count="1" type="stmt"/>
+      <line num="47" count="5" type="stmt"/>
+      <line num="51" count="4" type="stmt"/>
+      <line num="52" count="4" type="stmt"/>
+      <line num="56" count="1" type="stmt"/>
+    </file>
+    <file name="task4.js" path="/Users/mavericks/repos/jest-demo/task4.js">
+      <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="2" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="3" count="4" type="stmt"/>
+      <line num="4" count="4" type="stmt"/>
+      <line num="5" count="4" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
